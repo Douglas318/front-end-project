@@ -33,4 +33,5 @@ export default {
 ## Power tutorial
  yarn create vite tutorial --template react-ts
  yarn
+ yarn dev
  
